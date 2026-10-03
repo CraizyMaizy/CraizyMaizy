@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**CraizyMaizy/CraizyMaizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🧑 About me
 
-Here are some ideas to get you started:
+- 🌱 Junior Front-end developer, learning the modern React ecosystem
+- 🧪 Constantly experimenting with new tools, libraries and approaches
+- 🔭 Currently working on React projects with a focus on clean architecture and reusable components
+- 📦 Built a full-cycle delivery service app — from calculation to multi-step order checkout, integrated with a real REST API
+- 🎯 Learning TypeScript, form validation patterns and state management in depth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Technologies
+
+- ⚡ Languages: TypeScript, JavaScript
+- ⚡ Frameworks: React, TailwindCSS
+- ⚡ State managers: Zustand
+- ⚡ Forms & validation: React Hook Form, Zod
+- ⚡ API: REST API, TanStack Query, Axios
+- ⚡ Routing: React Router
+- ⚡ UI primitives: Radix UI
+- ⚡ Building: Vite
+
+#### 💬 Connect with me
+
+- Telegram: [@wntdtbecmgrtagn]
+- Email: eduard.agishev.2005@mail.ru
