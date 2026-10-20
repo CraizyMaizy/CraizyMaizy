@@ -58,6 +58,6 @@ Survey creation and management platform for researchers and businesses gathering
 | **APIs & services** | REST API, Firebase, Nominatim, Overpass API |
 | **Maps** | Leaflet, OpenStreetMap |
 | **Storage** | localStorage (with caching and TTL) |
-| **Databases** | PostgreSQL, MySQL, SQLite (university coursework) |
+| **Databases** | PostgreSQL, MySQL, SQLite |
 | **Design** | Figma, UX principles, responsive design |
 | **Tools** | Git, GitHub |
