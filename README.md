@@ -1,41 +1,63 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Eduard 👋</h1>
 
-#### 🧑 About me
+<p align="center">
+  Junior Front-end Developer · React & TypeScript · UX/UI-minded
+</p>
 
-- 🌱 Junior Front-end developer, learning the modern React ecosystem
-- 🧪 Constantly experimenting with new tools, libraries and approaches
-- 🔭 Currently working on React projects with a focus on clean architecture and reusable components
-- 🎯 Learning TypeScript, form validation patterns and state management in depth
+<p align="center">
+  <a href="https://t.me/wntdtbecmgrtagn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:eduard.agishev.2005@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-#### 🚀 Projects
+---
 
-**[Delivery App](https://github.com/CraizyMaizy/Delivery-app)**
-Delivery calculation and order checkout service — multi-step order flow integrated with a real REST API.
+## 🧑 About me
+
+- 🌱 Junior Front-end developer focused on React and TypeScript
+- 🎨 Completed a UX/UI course: user flows, wireframing, prototyping in Figma, usability and accessibility
+- 🗄️ Worked with relational databases (PostgreSQL, MySQL, SQLite) during university studies and now building my first full-stack project
+- 🌍 Languages: Russian (native), English (B2)
+- 🎯 Open to: Junior Front-end · Full-stack · React Native roles
+
+---
+
+## 🚀 Projects
+
+### [Delivery App](https://github.com/CraizyMaizy/Delivery-app)
+Delivery calculation and order checkout service with a multi-step order flow, integrated with a real REST API.
+
 `React` `TypeScript` `Zustand` `React Hook Form` `Zod` `TanStack Query` `Radix UI`
 
-**[Planning Trip](https://github.com/CraizyMaizy/Planning_trip)**
-Trip planning app: create and edit trips with a date range, search for places and cities (with nearby attractions), see them on an interactive map, keep a packing checklist and store flight and hotel details. Responsive layout, trips are saved in the browser.
-`React` `TypeScript` `Vite` `React Router` `Material UI` `MUI X Date Pickers` `Leaflet` `OpenStreetMap` `Nominatim` `Overpass API` `Day.js` `localStorage`
+<!-- 🔗 Live demo: add link -->
 
-**[SurveyPro](https://github.com/mhhllww/survey-pro)**
-Survey creation and management platform aimed at researchers and businesses gathering data — simplifies survey administration with an intuitive interface.
+### [Planning Trip](https://github.com/CraizyMaizy/Planning_trip)
+Trip planning app: create and edit trips with a date range, search for places and cities (with nearby attractions), view them on an interactive map, keep a packing checklist and store flight and hotel details. Responsive layout; trips are saved in the browser.
+
+`React` `TypeScript` `Vite` `React Router` `Material UI` `Leaflet` `OpenStreetMap` `Nominatim` `Overpass API` `Day.js` `localStorage`
+
+<!-- 🔗 Live demo: add link -->
+
+### [SurveyPro](https://github.com/mhhllww/survey-pro)
+Survey creation and management platform for researchers and businesses gathering data, with an intuitive interface that simplifies survey administration.
+
 `React` `TypeScript` `SCSS` `Firebase` `Vite`
 
-#### 💻 Technologies
+<!-- 🔗 Live demo: add link -->
 
-- ⚡ Languages: TypeScript, JavaScript
-- ⚡ Frameworks: React, TailwindCSS, SCSS, Material UI
-- ⚡ State managers: Zustand
-- ⚡ Forms & validation: React Hook Form, Zod
-- ⚡ API: REST API, TanStack Query, Axios, Firebase, Nominatim, Overpass API
-- ⚡ Routing: React Router
-- ⚡ UI primitives: Radix UI
-- ⚡ Date & time: MUI X Date Pickers, Day.js
-- ⚡ Maps: Leaflet, OpenStreetMap
-- ⚡ Browser storage: localStorage (with caching and TTL)
-- ⚡ Building: Vite
+---
 
-#### 💬 Connect with me
+## 💻 Technologies
 
-- Telegram: [@wntdtbecmgrtagn]
-- Email: eduard.agishev.2005@mail.ru
+| Area | Stack |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript |
+| **Frontend** | React, React Router, Vite |
+| **Styling & UI** | TailwindCSS, SCSS, Material UI, Radix UI |
+| **State & data** | Zustand, TanStack Query, Axios |
+| **Forms & validation** | React Hook Form, Zod |
+| **APIs & services** | REST API, Firebase, Nominatim, Overpass API |
+| **Maps** | Leaflet, OpenStreetMap |
+| **Storage** | localStorage (with caching and TTL) |
+| **Databases** | PostgreSQL, MySQL, SQLite (university coursework) |
+| **Design** | Figma, UX principles, responsive design |
+| **Tools** | Git, GitHub |
