@@ -15,7 +15,7 @@
 
 - 🌱 Junior Front-end developer focused on React and TypeScript
 - 🎨 Completed a UX/UI course: user flows, wireframing, prototyping in Figma, usability and accessibility
-- 🗄️ Worked with relational databases (PostgreSQL, MySQL, SQLite) during university studies and now building my first full-stack project
+- 🗄️ Worked with relational databases (PostgreSQL, MySQL, SQLite) and now building my first full-stack project
 - 🌍 Languages: Russian (native), English (B2)
 - 🎯 Open to: Junior Front-end · Full-stack · React Native roles
 
