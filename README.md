@@ -61,3 +61,4 @@ Team Project. Survey creation and management platform for researchers and busine
 | **Databases** | PostgreSQL, MySQL, SQLite |
 | **Design** | Figma, UX principles, responsive design |
 | **Tools** | Git, GitHub |
+| **Testing** | Vitest, React Testing Library, jsdom, user-event |
