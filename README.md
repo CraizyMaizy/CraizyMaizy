@@ -17,7 +17,7 @@
 - 🎨 Completed a UX/UI course: user flows, wireframing, prototyping in Figma, usability and accessibility
 - 🗄️ Worked with relational databases (PostgreSQL, MySQL, SQLite) and now building my first full-stack project
 - 🌍 Languages: Russian (native), English (B2)
-- 🎯 Open to: Junior Front-end · Full-stack · React Native roles
+- 🎯 Open to: Junior Front-end 
 
 ---
 
