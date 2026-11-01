@@ -38,7 +38,7 @@ Trip planning app: create and edit trips with a date range, search for places an
 <!-- 🔗 Live demo: add link -->
 
 ### [SurveyPro](https://github.com/mhhllww/survey-pro)
-Survey creation and management platform for researchers and businesses gathering data, with an intuitive interface that simplifies survey administration.
+Team Project. Survey creation and management platform for researchers and businesses gathering data, with an intuitive interface that simplifies survey administration.
 
 `React` `TypeScript` `SCSS` `Firebase` `Vite`
 
