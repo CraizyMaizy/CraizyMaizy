@@ -28,21 +28,21 @@ Delivery calculation and order checkout service with a multi-step order flow, in
 
 `React` `TypeScript` `Zustand` `React Hook Form` `Zod` `TanStack Query` `Radix UI` `Playwright`
 
-[<!-- 🔗 Live demo: add link -->](https://craizymaizy-delivery.netlify.app)
+(https://craizymaizy-delivery.netlify.app)
 
 ### [Planning Trip](https://github.com/CraizyMaizy/Planning_trip)
 Trip planning app: create and edit trips with a date range, search for places and cities (with nearby attractions), view them on an interactive map, keep a packing checklist and store flight and hotel details. Responsive layout; trips are saved in the browser.
 
 `React` `TypeScript` `Vite` `React Router` `Material UI` `Leaflet` `OpenStreetMap` `Nominatim` `Overpass API` `Day.js` `localStorage`
 
-[<!-- 🔗 Live demo: add link -->](https://craizymaizy-trip-planner.netlify.app)
+(https://craizymaizy-trip-planner.netlify.app)
 
 ### [SurveyPro](https://github.com/mhhllww/survey-pro)
 Team Project. Survey creation and management platform for researchers and businesses gathering data, with an intuitive interface that simplifies survey administration.
 
 `React` `TypeScript` `SCSS` `Firebase` `Vite`
 
-[<!-- 🔗 Live demo: add link -->](https://survey-pro-psi.vercel.app)
+(https://survey-pro-psi.vercel.app)
 
 ---
 
