@@ -28,21 +28,27 @@ Delivery calculation and order checkout service with a multi-step order flow, in
 
 `React` `TypeScript` `Zustand` `React Hook Form` `Zod` `TanStack Query` `Radix UI` `Playwright`
 
-(https://craizymaizy-delivery.netlify.app)
+<p>
+  <a href="https://craizymaizy-delivery.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-24292F?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
+</p>
 
 ### [Planning Trip](https://github.com/CraizyMaizy/Planning_trip)
 Trip planning app: create and edit trips with a date range, search for places and cities (with nearby attractions), view them on an interactive map, keep a packing checklist and store flight and hotel details. Responsive layout; trips are saved in the browser.
 
 `React` `TypeScript` `Vite` `React Router` `Material UI` `Leaflet` `OpenStreetMap` `Nominatim` `Overpass API` `Day.js` `localStorage`
 
-(https://craizymaizy-trip-planner.netlify.app)
+<p>
+  <a href="https://craizymaizy-trip-planner.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-24292F?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
+</p>
 
 ### [SurveyPro](https://github.com/mhhllww/survey-pro)
 Team Project. Survey creation and management platform for researchers and businesses gathering data, with an intuitive interface that simplifies survey administration.
 
 `React` `TypeScript` `SCSS` `Firebase` `Vite`
 
-(https://survey-pro-psi.vercel.app)
+<p>
+  <a href="https://survey-pro-psi.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-24292F?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
+</p>
 
 ---
 
