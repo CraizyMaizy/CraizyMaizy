@@ -24,25 +24,25 @@
 ## 🚀 Projects
 
 ### [Delivery App](https://github.com/CraizyMaizy/Delivery-app)
-Delivery calculation and order checkout service with a multi-step order flow, integrated with a real REST API.
+Delivery calculation and order checkout service with a multi-step order flow, integrated with a real REST API. Covered by E2E tests (Playwright) with mocked API for deterministic runs.
 
-`React` `TypeScript` `Zustand` `React Hook Form` `Zod` `TanStack Query` `Radix UI`
+`React` `TypeScript` `Zustand` `React Hook Form` `Zod` `TanStack Query` `Radix UI` `Playwright`
 
-<!-- 🔗 Live demo: add link -->
+[<!-- 🔗 Live demo: add link -->](https://craizymaizy-delivery.netlify.app)
 
 ### [Planning Trip](https://github.com/CraizyMaizy/Planning_trip)
 Trip planning app: create and edit trips with a date range, search for places and cities (with nearby attractions), view them on an interactive map, keep a packing checklist and store flight and hotel details. Responsive layout; trips are saved in the browser.
 
 `React` `TypeScript` `Vite` `React Router` `Material UI` `Leaflet` `OpenStreetMap` `Nominatim` `Overpass API` `Day.js` `localStorage`
 
-<!-- 🔗 Live demo: add link -->
+[<!-- 🔗 Live demo: add link -->](https://craizymaizy-trip-planner.netlify.app)
 
 ### [SurveyPro](https://github.com/mhhllww/survey-pro)
 Team Project. Survey creation and management platform for researchers and businesses gathering data, with an intuitive interface that simplifies survey administration.
 
 `React` `TypeScript` `SCSS` `Firebase` `Vite`
 
-<!-- 🔗 Live demo: add link -->
+[<!-- 🔗 Live demo: add link -->](https://survey-pro-psi.vercel.app)
 
 ---
 
@@ -60,5 +60,6 @@ Team Project. Survey creation and management platform for researchers and busine
 | **Storage** | localStorage (with caching and TTL) |
 | **Databases** | PostgreSQL, MySQL, SQLite |
 | **Design** | Figma, UX principles, responsive design |
-| **Tools** | Git, GitHub |
-| **Testing** | Vitest, React Testing Library, jsdom, user-event |
+| **Tools** | Git, GitHub, ESLint (flat config), Prettier |
+| **Testing** | Vitest, React Testing Library, jsdom, user-event, Playwright (E2E) |
+
